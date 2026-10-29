@@ -21,3 +21,4 @@ duckduckgo_search
 langgraph
 graphviz
 httpx
+python-decouple

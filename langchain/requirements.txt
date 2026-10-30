@@ -4,6 +4,7 @@ langchainhub
 pinecone-client
 PyMuPDF
 langchain
+langchain-community
 wikipedia
 openai
 numpy

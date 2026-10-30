@@ -1,3 +1,5 @@
 .vscode/
 venv/
 .env
+/langchain/cache_dir/
+/langchain/openai_cache.db

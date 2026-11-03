@@ -18,7 +18,7 @@ tqdm
 ipykernel
 PyYAML
 langchain-google-genai
-duckduckgo_search
+ddgs
 langgraph
 graphviz
 httpx

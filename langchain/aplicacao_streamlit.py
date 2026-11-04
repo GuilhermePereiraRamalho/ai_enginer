@@ -21,6 +21,7 @@ template = '''
     {analise}
 
     Certifique-se de fornecer insights e conclusōes para esta seçāo.
+    Formate o relatório utilizando Markdown.
 '''
 
 prompt_template = PromptTemplate.from_template(template=template)

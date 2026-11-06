@@ -1,7 +1,7 @@
 langchain_openai
 langchain_experimental
 langchainhub
-pinecone-client
+pinecone
 PyMuPDF
 langchain
 langchain-community

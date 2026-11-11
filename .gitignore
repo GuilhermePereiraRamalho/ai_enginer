@@ -1,7 +1,11 @@
 .vscode/
 venv/
+.venv*/
 .env
 /langchain/cache_dir/
 /langchain/openai_cache.db
 /langchain/venv313/
 .DS_Store
+__pycache__/
+*.pyc
+saida/

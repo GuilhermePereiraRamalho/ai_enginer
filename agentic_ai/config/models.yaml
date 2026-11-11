@@ -1,0 +1,18 @@
+fast:
+  provider: openai
+  model: gpt-6-luna
+  reasoning_effort: low
+  input_usd_million: 0.10
+  output_usd_million: 0.50
+balanced:
+  provider: openai
+  model: gpt-6.1-sol
+  reasoning_effort: medium
+  input_usd_million: 2.00
+  output_usd_million: 10.00
+reasoning:
+  provider: openai
+  model: gpt-6-astra
+  reasoning_effort: high
+  input_usd_million: 10.00
+  output_usd_million: 50.00

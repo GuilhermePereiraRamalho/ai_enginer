@@ -1,0 +1,5 @@
+[
+  {"id": "P1", "texto": "Cancelamento: pedidos em até 7 dias da matrícula podem ser analisados para reembolso. Todo reembolso requer aprovação humana."},
+  {"id": "P2", "texto": "Cursos: Python tem duração de 20 horas. Dados tem duração de 30 horas. Matrículas dependem de vagas."},
+  {"id": "P3", "texto": "Certificado: exige presença em 75% das aulas e entrega da atividade final."}
+]
